@@ -13,5 +13,7 @@ namespace GymManagementSystem.Data
         public DbSet<Trainer> Trainers { get; set; }
         public DbSet<Membership> Memberships { get; set; }
         public DbSet<Payment> Payments { get; set; }
+
+        public DbSet<TrainingPlan> TrainingPlans { get; set; }
     }
 }

@@ -182,3 +182,4 @@ C:\Users\Safni The Man\Desktop\Kaaja\GymManagementSystem\obj\Debug\net8.0\refint
 C:\Users\Safni The Man\Desktop\Kaaja\GymManagementSystem\obj\Debug\net8.0\GymManagementSystem.pdb
 C:\Users\Safni The Man\Desktop\Kaaja\GymManagementSystem\obj\Debug\net8.0\GymManagementSystem.genruntimeconfig.cache
 C:\Users\Safni The Man\Desktop\Kaaja\GymManagementSystem\obj\Debug\net8.0\ref\GymManagementSystem.dll
+C:\Users\Safni The Man\Desktop\Kaaja\GymManagementSystem\obj\Debug\net8.0\GymManagementSystem.sourcelink.json
